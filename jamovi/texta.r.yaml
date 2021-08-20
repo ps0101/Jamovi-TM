@@ -1,0 +1,11 @@
+---
+name:  TextA
+title: Term Frequency Analysis
+jrs:   '1.1'
+
+items:
+    - name:  text
+      title: Term Frequency Analysis
+      type:  Preformatted
+
+...
