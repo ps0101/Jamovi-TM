@@ -46,4 +46,4 @@ textResults$content <- result
             # `self$results` contains the results object (to populate)
            
         })
-)
+) 
