@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(tm)
+import(wordcloud)
+import(SnowballC)
+import(RColorBrewer)
+import(ggplot2)
