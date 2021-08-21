@@ -90,4 +90,4 @@ view.layout = ui.extend({
 	]
 });
 
-module.exports = { view : view, options: options };
+module.exports = { view : view, options: options }; 
