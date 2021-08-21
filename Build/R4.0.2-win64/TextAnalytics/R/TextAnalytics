@@ -25,3 +25,4 @@ local({
     dbbase <- file.path(info$libname, pkg, "R", pkg)
     lazyLoad(dbbase, ns, filter = function(n) n != ".__NAMESPACE__.")
 })
+ 
